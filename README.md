@@ -1,4 +1,4 @@
-# Repository for Framework Web Progamming
+# Repository for WEB Programming Framework
 
 ## Raka Rendra Fayanto
 ## L200224246
